@@ -3,5 +3,10 @@
     <pages>
         <page name='StrategyPattern'/>
         <page name='ObserverPattern'/>
+        <page name='DecoratorPattern'/>
+        <page name='FactoryPattern'/>
+        <page name='SingletonPattern'/>
+        <page name='CommandPattern'/>
+        <page name='Untitled Page'/>
     </pages>
 </playground>
